@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecasting  
+https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches  
+https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting  
+https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset  - поковыряться в резюмехах, скиллы или чо-еще поискать  
