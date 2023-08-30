@@ -7,6 +7,6 @@
 
 Данные из open-sourse источников по маркетинговым кампаниям и кликам по контекстной рекламе.
 
-Состав команды
-Павел Леонидович - https://github.com/pauly-sinner  
-Кирилл Дмитриевич - https://github.com/cptcroissant   
+Состав команды  
+Pavel Trudkov - https://github.com/pauly-sinner  
+Кирилл Клюквин - https://github.com/cptcroissant   
