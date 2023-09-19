@@ -1,10 +1,9 @@
-https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecasting  
-https://www.kaggle.com/datasets/devinanzelmo/dota-2-matches  
-https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting  
-https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset  - поковыряться в резюмехах, скиллы или чо-еще поискать
-https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring
+https://data.world/datasets/dating
+https://figshare.com/articles/dataset/OKCupid_Datasets/14987388
 
-https://www.kaggle.com/datasets/arashnic/ctr-in-advertisement  - release_candidate
+
+https://www.kaggle.com/kirillklyukvin/looking-for-love
+
 
 
 
