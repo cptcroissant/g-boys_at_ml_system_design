@@ -1,12 +1,11 @@
-# click rate project for ML System Design Course @ODS.ai
+# Matching Algorithm for Dating App @ ML System Design Course by ODS.ai
 
-Создание инструмента для ранжирования рекламных акций под профиль клиента.   
-В результате - показываем пользователю самую валидную для него рекламу, с максимальной вероятностью клика.  
+Алгоритм ражнирования пользователей дейтинг-приложения для выдачи наиболее релевантных анкет по запросам текущего пользователя.
 
-Краткое название - CTR4Ad
+Краткое название - MADA
 
-Данные из open-sourse источников по маркетинговым кампаниям и кликам по контекстной рекламе.
+Данные из open-sourse источников с обезличенными пользователями зарубежных приложений знакомств.
 
 Состав команды  
-Pavel Trudkov - https://github.com/pauly-sinner  
-Кирилл Клюквин - https://github.com/cptcroissant   
+Pavel Trudkov -  tg @pavel_trudkov , https://github.com/pauly-sinner  
+Кирилл Клюквин - tg @cpt_croissant , https://github.com/cptcroissant

@@ -1,0 +1,11 @@
+.env
+
+.idea/
+
+.vccode/
+
+.snakemake
+
+venv
+
+.git
